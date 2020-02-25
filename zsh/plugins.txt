@@ -9,3 +9,6 @@ sindresorhus/pure
 zsh-users/zsh-history-substring-search
 zsh-users/zsh-syntax-highlighting
 spwhitt/nix-zsh-completions
+agkozak/zsh-z
+lukechilds/zsh-nvm
+hermitmaster/sdkman
